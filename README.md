@@ -7,6 +7,7 @@ You can use a ready CSS classes to control the spacing layout for bootstrap v3.
 
             on-spacing : on padding and on margin.
      
+            on-padding : on padding
           on-padding-v : on vertical padding.
           on-padding-h : on horizontal padding.
       on-padding-right : on right padding.
