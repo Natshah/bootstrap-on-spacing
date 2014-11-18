@@ -1,4 +1,4 @@
-bootstrap-on-spacing
+Bootstrap On Spacing 3.x-1.1
 ====================
 
 Bootstrap on spacing for Twitter Bootstrap v3.
