@@ -1,9 +1,9 @@
-Bootstrap On Spacing 3.x-1.1
+Bootstrap On Spacing 3.x-1.1.1
 ====================
 
 Bootstrap on spacing for Twitter Bootstrap v3.
 
-You can use a ready CSS classes to control the spacing layout for bootstrap v3.
+You can use a ready CSS/LESS classes to control the spacing layout for bootstrap v3.
 
             on-spacing : on padding and on margin.
      
