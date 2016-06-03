@@ -26,7 +26,7 @@ You can use a ready CSS/LESS classes to control the spacing layout for bootstrap
  Add -xs, -sm, -md, -lg to the end of each class to restrict that the selected media
 
 
-  Rajab Natshah
-  http://natshah.com
+  - Rajab Natshah
+  - http://natshah.com
  
  
